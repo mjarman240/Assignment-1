@@ -42,11 +42,11 @@ public class windchill {
         windChill = CONSTANT_1 + windChill1 - windChill2 + windChill3;
 
         // Print Wind Chill
-        System.out.println("");
+        System.out.println();
         System.out.println("Wind Chill Temperature: " + windChill + " degrees Fahrenheit");
 
         // Print programmer name
-        System.out.println("");
+        System.out.println();
         System.out.println("Programmer: Michael Jarman");
 
         // Close scanner
